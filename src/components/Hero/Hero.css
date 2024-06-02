@@ -190,11 +190,12 @@
     flex-direction: column;
 
   }
+
   .hero-blur{
     width: 14rem;
   }
   .the-best-ad{
-    margin-top: 0;
+    margin-top: 50px;
     font-size: small;
     align-self: center;
     transform: scale(0.7);
